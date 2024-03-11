@@ -1,0 +1,61 @@
+.logo img {
+    max-height: 35px;
+}
+
+.newPost{
+    margin-left: auto;
+    padding-right: 10px;
+}
+
+.modal-body .form-floating {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.modal-body img {
+    height: 25px;
+}
+
+.dropdown img {
+    height: 20px;
+}
+
+.dropdown .logout {
+    color: red;
+}
+
+.row-2 .grid-pics img{
+    object-fit: cover;
+    aspect-ratio: 1;
+}
+
+.card-title {
+    display: inline-flex;
+}
+
+.post-date {
+    margin-left: auto;
+}
+
+.row-2 ul img {
+    height: 25px;
+    width: 25px;
+}
+
+.card img {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.row-2 .change .nav-link {
+    color: black
+}
+
+.row-2 .change .active {
+    color: rgb(0, 128, 255);
+}
